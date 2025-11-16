@@ -1,0 +1,9 @@
+.metadata/
+backend_spring/target/
+frontend_flutter/build/
+.android/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
